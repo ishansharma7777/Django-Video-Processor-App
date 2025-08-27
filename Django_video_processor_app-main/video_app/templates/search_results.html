@@ -1,0 +1,6 @@
+<h2>Subtitle Search Results</h2>
+<ul>
+    {% for subtitle in subtitles %}
+        <li>{{ subtitle.subtitle_text }} - Timestamp: {{ subtitle.timestamp }}</li>
+    {% endfor %}
+</ul>
