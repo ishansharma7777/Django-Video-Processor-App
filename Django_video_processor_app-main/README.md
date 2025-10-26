@@ -14,7 +14,6 @@ The Django Video Processor App is a web application that allows users to upload 
 ## Technologies Used
 
 - **Django**: A high-level Python web framework used for building the web application.
-- **PostgreSQL**: The database used to store video metadata and other information.
 - **FFmpeg**: A powerful multimedia framework used to extract subtitles from videos.
 - **Docker**: Used for containerization to ensure consistent deployment.
 
